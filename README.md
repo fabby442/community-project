@@ -32,7 +32,7 @@
 position:fixed; inset:0; background:var(–bg);
 display:flex; align-items:center; justify-content:center;
 z-index:1000;
-background-image:radial-gradient(ellipse 80% 60% at 50% -20%, rgba(192,132,252,0.15), transparent),
+background-image: radial-gradient(ellipse 80% 60% at 50% -20%, rgba(192,132,252,0.15), transparent),
 radial-gradient(ellipse 60% 40% at 80% 120%, rgba(167,139,250,0.1), transparent);
 }
 #auth-screen.hidden { display:none; }
