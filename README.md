@@ -1,4 +1,4 @@
-Here’s the README content to copy:
+
 
 Community Project
 A full-stack community web application with a dedicated frontend and backend, managed as a monorepo.
