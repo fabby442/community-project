@@ -71,4 +71,4 @@ Contributions are welcome! To get started:
 	4.	Push to your branch: git push origin feature/your-feature-name
 	5.	Open a Pull Request
 📄 License
-This project is open source. See the repository for details.​​​​​​​​​​​​​​
+This project is open source. See the repository for details.​​​​​​​​​​​​​
